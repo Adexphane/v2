@@ -1,1 +1,2 @@
-console.log("Hello there, i am steve")
+console.log("Hello there, no i am GOD")
+// Becareful bro
